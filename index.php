@@ -27,4 +27,5 @@
     <p>There no posts to show</p>
   <?php endif; ?>
 </div>
+
 <?php get_footer(); ?>
